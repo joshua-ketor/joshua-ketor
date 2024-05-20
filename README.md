@@ -5,6 +5,8 @@
 2. 💪 Opened PR [#3645](https://github.com/EddieHubCommunity/open-source-practice/pull/3645) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
 <!--END_SECTION:activity-->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-ketor&hide=javascript,html&layout=donut&theme=transparent)
+
 <!--
 **joshua-ketor/joshua-ketor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
