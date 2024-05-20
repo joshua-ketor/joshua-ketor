@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!--START_SECTION:activity-->
+
 <!--
 **joshua-ketor/joshua-ketor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
