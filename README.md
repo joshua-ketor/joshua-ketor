@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#8931](https://github.com/EddieHubCommunity/support/issues/8931) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 💪 Opened PR [#3645](https://github.com/EddieHubCommunity/open-source-practice/pull/3645) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
+<!--END_SECTION:activity-->
 
 <!--
 **joshua-ketor/joshua-ketor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
