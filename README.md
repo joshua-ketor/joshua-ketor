@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8931](https://github.com/EddieHubCommunity/support/issues/8931) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗ Opened issue [#1](https://github.com/Kwesi-Tandoh/logicOfCE26/issues/1) in [Kwesi-Tandoh/logicOfCE26](https://github.com/Kwesi-Tandoh/logicOfCE26)
 2. 💪 Opened PR [#3645](https://github.com/EddieHubCommunity/open-source-practice/pull/3645) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
 <!--END_SECTION:activity-->
 
