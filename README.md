@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Kwesi-Tandoh/logicOfCE26/issues/1) in [Kwesi-Tandoh/logicOfCE26](https://github.com/Kwesi-Tandoh/logicOfCE26)
-2. 💪 Opened PR [#3645](https://github.com/EddieHubCommunity/open-source-practice/pull/3645) in [EddieHubCommunity/open-source-practice](https://github.com/EddieHubCommunity/open-source-practice)
+1. 🔒 Closed issue [#1](https://github.com/Kwesi-Tandoh/logicOfCE26/issues/1) in [Kwesi-Tandoh/logicOfCE26](https://github.com/Kwesi-Tandoh/logicOfCE26)
+2. ❗ Opened issue [#1](https://github.com/Kwesi-Tandoh/logicOfCE26/issues/1) in [Kwesi-Tandoh/logicOfCE26](https://github.com/Kwesi-Tandoh/logicOfCE26)
 <!--END_SECTION:activity-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-ketor&hide=javascript,html&layout=donut&theme=transparent)
